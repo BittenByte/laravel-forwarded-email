@@ -1,5 +1,5 @@
 {
-    "name": "BittenByte/LaravelForwardedEmail",
+    "name": "bittenbyte/laravel-forwarded-email",
     "type": "library",
     "description": "Laravel service to manage email forwarded to a url via post",
     "keywords": [
