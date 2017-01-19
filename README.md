@@ -14,7 +14,7 @@ Laravel service to manage email forwarded to a url via post.
 Via Composer
 
 ``` bash
-$ composer require BittenByte/LaravelForwardedEmail
+$ composer require bittenbyte/laravel-forwarded-email
 ```
 
 ## Setup
